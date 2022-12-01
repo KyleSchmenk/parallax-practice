@@ -1,0 +1,48 @@
+body {
+font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif;
+}
+
+.slide {
+    height: 750px;
+}
+
+.slide-1 {
+    background-image: url(../IMG/pokeball.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-2 {
+    background-image: url(../IMG/detectivepika.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-3 {
+    background-image: url(../IMG/gamboygames.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-4 {
+    background-image: url(../IMG/pokemoncards.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-5 {
+    background-image: url(../IMG/charzardcards2.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
